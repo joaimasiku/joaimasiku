@@ -39,18 +39,18 @@ BSc Actuarial Science graduate, currently training as a Data Analyst. I bring a 
      You can add more cards by inserting additional <td> cells or <tr> rows.
      ============================================================ -->
 
-## Reach out me 📬
+## Reach out to me 📬
 
 <table width="100%" border="0" cellspacing="12" cellpadding="0">
   <tr>
     <td width="50%" style="background:#FFF5F8; border-radius:10px; padding:16px; vertical-align:top;">
       <strong>✉️ &nbsp;Email</strong><br/>
-      <a href="mailto:joaimasiku@gmail.com" style="color:#E91E8C; text-decoration:none;">YOUR_EMAIL_ADDRESS</a>
+      <a href="mailto:joaimasiku@gmail.com" style="color:#E91E8C; text-decoration:none;">joaimasiku@gmail.com</a>
     </td>
     <td width="50%" style="background:#FFF5F8; border-radius:10px; padding:16px; vertical-align:top;">
       <strong>💼 &nbsp;LinkedIn</strong><br/>
       <!-- CUSTOMIZE: Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-      <a href="www.linkedin.com/in/joanna-imasiku" style="color:#E91E8C; text-decoration:none;">Professional updates</a>
+      <a href="www.linkedin.com/in/joanna-imasiku" style="color:#E91E8C; text-decoration:none;">Joanna Imasiku</a>
     </td>
   </tr>
 </table>
