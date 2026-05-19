@@ -1,30 +1,4 @@
 <!-- ============================================================
-     SECTION 1 — Hero Banner Card
-     This section renders a two-column banner at the top of your profile.
-     Left side: your name and title on a blush-pink background.
-     Right side: a banner/cover image of your choice.
-     CUSTOMIZE: Replace YOUR_NAME, YOUR_ROLE, and the image src (YOUR_BANNER_IMAGE_URL)
-     with your actual name, role, and a hosted image URL.
-     ============================================================ -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" style="background-color:#F9E4EF; padding:32px 28px; vertical-align:middle;">
-      <h2 style="color:#C0006A; margin:0 0 8px 0; font-size:1.8em;">JOANNA IMASIKU</h2>
-      <p style="color:#24292F; margin:0; font-size:1em;">Data Analyst, BSc Actuarial Science</p>
-    </td>
-    <td width="50%" style="vertical-align:middle; text-align:center; padding:0;">
-      <!-- CUSTOMIZE: Replace the src below with [YOUR_BANNER_IMAGE_URL] -->
-      <img
-        src="[https://i.pinimg.com/1200x/b2/3b/1c/b23b1c8d6d4d280ae8e29df7303cdaae.jpg](https://drive.google.com/file/d/1yWlCO1-JRCfj6r6v36t8Pag9JMt_8su0/view?usp=drive_link)"
-        alt="Profile Banner"
-        width="100%"
-        style="display:block;"
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================
      SECTION 2 — Greeting Headline
      This is the large greeting at the top of your README body.
      It uses a big H1 with your name and some personality emojis.
