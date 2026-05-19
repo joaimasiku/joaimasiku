@@ -17,7 +17,7 @@
      involvement — optionally include a hyperlink styled in pink/magenta.
      ============================================================ -->
 
-BSc Actuarial Science graduate, currently training as a Data Analyst. I bring a strong analytical foundation from both my degree and hands-on experience in the insurance industry, where I worked with insurance and policy datasets. My toolkit includes Excel, Power BI, and SQL, with certifications from Microsoft. I'm passionate about turning complex data into clear, actionable insights by viewing every dataset as a treasure hunt. I dig deep into the numbers to find hidden patterns and turning those insights into visual stories that drive decisions.
+BSc Actuarial Science graduate, Microsoft Power BI Data Analyst. I bring a strong analytical foundation from both my degree and hands-on experience in the insurance industry, where I worked with insurance and policy datasets. My toolkit includes Excel, Power BI, and SQL, with certifications from Microsoft. I'm passionate about turning complex data into clear, actionable insights by viewing every dataset as a treasure hunt. I dig deep into the numbers to find hidden patterns and turning those insights into visual stories that drive decisions.
 
 🚀 Current Focus: Mastering data visualization and analysis.
 
